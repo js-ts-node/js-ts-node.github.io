@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+Disallow: /*?
+Disallow: /?s=
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Sitemap: https://js-ts.github.io/post-sitemap.xml
