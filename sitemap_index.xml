@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://js-ts.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://js-ts-node.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://js-ts.github.io/post-sitemap.xml</loc>
+		<loc>https://js-ts-node.github.io/post-sitemap.xml</loc>
 		<lastmod>2025-05-20T11:15:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://js-ts.github.io/page-sitemap.xml</loc>
+		<loc>https://js-ts-node.github.io/page-sitemap.xml</loc>
 		<lastmod>2025-05-14T19:24:14+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
