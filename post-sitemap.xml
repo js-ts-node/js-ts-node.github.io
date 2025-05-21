@@ -1,1071 +1,1071 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://js-ts.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://js-ts-node.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://js-ts.github.io/javascript-notification/</loc>
+		<loc>https://js-ts-node.github.io/javascript-notification/</loc>
 		<lastmod>2025-03-20T20:13:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ispolzovanie-funktsiy-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ispolzovanie-funktsiy-v-javascript/</loc>
 		<lastmod>2025-03-21T10:16:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tip-dannyh-string-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/tip-dannyh-string-v-javascript/</loc>
 		<lastmod>2025-03-21T11:14:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/rabota-s-faylami-cookie-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/rabota-s-faylami-cookie-v-javascript/</loc>
 		<lastmod>2025-03-21T12:03:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/javascript-array-sozdanie-i-operatsii-s-massivami/</loc>
+		<loc>https://js-ts-node.github.io/javascript-array-sozdanie-i-operatsii-s-massivami/</loc>
 		<lastmod>2025-03-21T12:28:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/prototipy-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/prototipy-v-javascript/</loc>
 		<lastmod>2025-03-21T19:36:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-instanceof-v-javascript-proverka-klassa/</loc>
+		<loc>https://js-ts-node.github.io/operator-instanceof-v-javascript-proverka-klassa/</loc>
 		<lastmod>2025-03-22T01:28:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/focus-events-i-obrabotka-sobytiy-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/focus-events-i-obrabotka-sobytiy-v-javascript/</loc>
 		<lastmod>2025-03-22T08:57:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/vyvod-tipov-v-typescript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/vyvod-tipov-v-typescript-s-primerami/</loc>
 		<lastmod>2025-03-22T11:50:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-getelementsbyclassname-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-getelementsbyclassname-v-javascript/</loc>
 		<lastmod>2025-03-22T13:47:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-array-unshift-v-javascript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/metod-array-unshift-v-javascript-s-primerami/</loc>
 		<lastmod>2025-03-22T16:37:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obekt-window-v-javascript-i-ego-metody/</loc>
+		<loc>https://js-ts-node.github.io/obekt-window-v-javascript-i-ego-metody/</loc>
 		<lastmod>2025-03-22T23:05:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-scrollintoview-v-javascript-prokrutka-elementov/</loc>
+		<loc>https://js-ts-node.github.io/metod-scrollintoview-v-javascript-prokrutka-elementov/</loc>
 		<lastmod>2025-03-23T02:35:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-chitat-peremennye-sredy-v-node-js-modulya-process/</loc>
+		<loc>https://js-ts-node.github.io/kak-chitat-peremennye-sredy-v-node-js-modulya-process/</loc>
 		<lastmod>2025-03-23T16:33:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/anonimnye-funktsii-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/anonimnye-funktsii-v-javascript/</loc>
 		<lastmod>2025-03-23T18:12:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/osnovnoe-rukovodstvo-po-annotatsiyam-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/osnovnoe-rukovodstvo-po-annotatsiyam-v-typescript/</loc>
 		<lastmod>2025-03-23T18:39:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-call-v-javascript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/metod-call-v-javascript-s-primerami/</loc>
 		<lastmod>2025-03-23T20:36:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/rasshirenie-interfeysa-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/rasshirenie-interfeysa-v-typescript/</loc>
 		<lastmod>2025-03-23T21:56:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/comma-operator-zapyatoy-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/comma-operator-zapyatoy-v-javascript/</loc>
 		<lastmod>2025-03-24T00:01:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/primitivnyy-tip-string-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/primitivnyy-tip-string-v-javascript/</loc>
 		<lastmod>2025-03-24T10:26:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/interfeysy-v-typescript-kak-ispolzovat/</loc>
+		<loc>https://js-ts-node.github.io/interfeysy-v-typescript-kak-ispolzovat/</loc>
 		<lastmod>2025-03-24T11:05:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-sozdat-mnogomernyy-massiv-v-javascript-na-primerah/</loc>
+		<loc>https://js-ts-node.github.io/kak-sozdat-mnogomernyy-massiv-v-javascript-na-primerah/</loc>
 		<lastmod>2025-03-24T12:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-confirm-v-javascript-dialogovye-okna-podtverzhdeniya/</loc>
+		<loc>https://js-ts-node.github.io/metod-confirm-v-javascript-dialogovye-okna-podtverzhdeniya/</loc>
 		<lastmod>2025-03-24T19:44:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-array-map-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-array-map-v-javascript/</loc>
 		<lastmod>2025-03-24T20:26:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-append-v-javascript-vstavka-elementov/</loc>
+		<loc>https://js-ts-node.github.io/metod-append-v-javascript-vstavka-elementov/</loc>
 		<lastmod>2025-03-24T22:17:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/privatnye-polya-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/privatnye-polya-v-javascript/</loc>
 		<lastmod>2025-03-25T04:22:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/drag-and-drop-api-v-javascript-peretaskivanie-elementov-na-primerah/</loc>
+		<loc>https://js-ts-node.github.io/drag-and-drop-api-v-javascript-peretaskivanie-elementov-na-primerah/</loc>
 		<lastmod>2025-03-25T13:44:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-object-entries-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-object-entries-v-javascript/</loc>
 		<lastmod>2025-03-25T17:46:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/istoriya-javascript/</loc>
+		<loc>https://js-ts-node.github.io/istoriya-javascript/</loc>
 		<lastmod>2025-03-25T21:45:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-ispolzovat-top-level-await-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/kak-ispolzovat-top-level-await-v-javascript/</loc>
 		<lastmod>2025-03-26T02:36:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/klyuchevoe-slovo-this-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/klyuchevoe-slovo-this-v-javascript/</loc>
 		<lastmod>2025-03-26T16:07:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/classlist-v-javascript-upravlenie-svoystvami-css-elementa/</loc>
+		<loc>https://js-ts-node.github.io/classlist-v-javascript-upravlenie-svoystvami-css-elementa/</loc>
 		<lastmod>2025-03-26T16:15:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/abstraktnye-klassy-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/abstraktnye-klassy-v-typescript/</loc>
 		<lastmod>2025-03-27T01:12:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/v-chem-raznitsa-mezhdu-obektom-boolean-i-primitivnym-tipom-boolean-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/v-chem-raznitsa-mezhdu-obektom-boolean-i-primitivnym-tipom-boolean-v-javascript/</loc>
 		<lastmod>2025-03-27T01:24:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-array-sort-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-array-sort-v-javascript/</loc>
 		<lastmod>2025-03-27T07:25:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/logicheskiy-tip-dannyh-boolean-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/logicheskiy-tip-dannyh-boolean-v-javascript/</loc>
 		<lastmod>2025-03-27T12:24:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/funktsiya-obratnogo-vyzova-callbacks-v-javascript-kak-rabotaet/</loc>
+		<loc>https://js-ts-node.github.io/funktsiya-obratnogo-vyzova-callbacks-v-javascript-kak-rabotaet/</loc>
 		<lastmod>2025-03-27T18:12:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/pishem-pervuyu-programmu-hello-world-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/pishem-pervuyu-programmu-hello-world-v-javascript/</loc>
 		<lastmod>2025-03-28T10:24:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/javascript-fetch-api-na-primerah/</loc>
+		<loc>https://js-ts-node.github.io/javascript-fetch-api-na-primerah/</loc>
 		<lastmod>2025-03-28T22:51:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tsepochka-promisov-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/tsepochka-promisov-v-javascript/</loc>
 		<lastmod>2025-03-29T01:41:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-throw-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/operator-throw-v-javascript/</loc>
 		<lastmod>2025-03-29T09:44:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/staticheskiy-metod-promise-all-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/staticheskiy-metod-promise-all-v-javascript/</loc>
 		<lastmod>2025-03-29T14:42:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-poluchit-parametry-stroki-zaprosa-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/kak-poluchit-parametry-stroki-zaprosa-v-javascript/</loc>
 		<lastmod>2025-03-29T15:32:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/iife-nemedlenno-vyzyvaemye-funktsii-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/iife-nemedlenno-vyzyvaemye-funktsii-v-javascript/</loc>
 		<lastmod>2025-03-29T17:40:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-insertadjacenthtml-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-insertadjacenthtml-v-javascript/</loc>
 		<lastmod>2025-03-29T18:59:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tip-dannyh-any-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/tip-dannyh-any-v-typescript/</loc>
 		<lastmod>2025-03-30T00:56:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/typescript-readonly-tolko-dlya-chteniya/</loc>
+		<loc>https://js-ts-node.github.io/typescript-readonly-tolko-dlya-chteniya/</loc>
 		<lastmod>2025-03-30T02:28:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/canvas-api-transformatsiya-s-metodom-translate-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/canvas-api-transformatsiya-s-metodom-translate-v-javascript/</loc>
 		<lastmod>2025-03-30T04:54:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/peredacha-po-znacheniyu-i-ssylke-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/peredacha-po-znacheniyu-i-ssylke-v-javascript/</loc>
 		<lastmod>2025-03-30T07:12:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-strokerect-v-javascript-dlya-risovaniya-kontura-pryamougolnika/</loc>
+		<loc>https://js-ts-node.github.io/metod-strokerect-v-javascript-dlya-risovaniya-kontura-pryamougolnika/</loc>
 		<lastmod>2025-03-30T11:33:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-substring-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-substring-v-javascript/</loc>
 		<lastmod>2025-03-30T16:30:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/formdata-api-v-javascript-sozdanie-obekta-i-otpravka-dannyh/</loc>
+		<loc>https://js-ts-node.github.io/formdata-api-v-javascript-sozdanie-obekta-i-otpravka-dannyh/</loc>
 		<lastmod>2025-03-30T16:57:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/hranilische-dannyh-sessionstorage-v-javascript-prakticheskoe-rukovodstvo/</loc>
+		<loc>https://js-ts-node.github.io/hranilische-dannyh-sessionstorage-v-javascript-prakticheskoe-rukovodstvo/</loc>
 		<lastmod>2025-03-30T19:26:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-continue-v-javascript-propusk-iteratsii-tsikla/</loc>
+		<loc>https://js-ts-node.github.io/operator-continue-v-javascript-propusk-iteratsii-tsikla/</loc>
 		<lastmod>2025-03-31T11:05:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/dvoichnye-i-vosmerichnye-literaly-javascript-v-es6/</loc>
+		<loc>https://js-ts-node.github.io/dvoichnye-i-vosmerichnye-literaly-javascript-v-es6/</loc>
 		<lastmod>2025-03-31T17:58:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-canvas-clearrect-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-canvas-clearrect-v-javascript/</loc>
 		<lastmod>2025-03-31T18:18:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/primery-operatora-tsikla-for-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/primery-operatora-tsikla-for-v-typescript/</loc>
 		<lastmod>2025-03-31T19:17:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/node-js-typescript-avtomatizatsiya-nastroyki-proekta/</loc>
+		<loc>https://js-ts-node.github.io/node-js-typescript-avtomatizatsiya-nastroyki-proekta/</loc>
 		<lastmod>2025-03-31T23:59:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tip-union-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/tip-union-v-typescript/</loc>
 		<lastmod>2025-04-01T18:28:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kogda-ne-nuzhno-ispolzovat-strelochnye-funktsii-javascript/</loc>
+		<loc>https://js-ts-node.github.io/kogda-ne-nuzhno-ispolzovat-strelochnye-funktsii-javascript/</loc>
 		<lastmod>2025-04-01T19:26:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/svoystvo-innerhtml-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/svoystvo-innerhtml-v-javascript/</loc>
 		<lastmod>2025-04-02T02:03:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-nulevogo-sliyaniya-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/operator-nulevogo-sliyaniya-v-javascript/</loc>
 		<lastmod>2025-04-02T03:56:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-array-filter-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-array-filter-v-javascript/</loc>
 		<lastmod>2025-04-02T07:50:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-string-split-v-javascript-razdelenie-stroki-na-podstroki/</loc>
+		<loc>https://js-ts-node.github.io/metod-string-split-v-javascript-razdelenie-stroki-na-podstroki/</loc>
 		<lastmod>2025-04-02T09:53:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/privatnye-metody-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/privatnye-metody-v-javascript/</loc>
 		<lastmod>2025-04-02T16:10:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/staticheskie-metody-i-svoystva-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/staticheskie-metody-i-svoystva-v-typescript/</loc>
 		<lastmod>2025-04-02T19:26:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/hashchange-sobytie-izmeneniya-hesh-funktsii-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/hashchange-sobytie-izmeneniya-hesh-funktsii-v-javascript/</loc>
 		<lastmod>2025-04-03T18:02:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/privatnye-polya-v-javascript-i-operator-in/</loc>
+		<loc>https://js-ts-node.github.io/privatnye-polya-v-javascript-i-operator-in/</loc>
 		<lastmod>2025-04-03T21:00:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ponimanie-obektnoy-modeli-dokumenta-dom-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ponimanie-obektnoy-modeli-dokumenta-dom-v-javascript/</loc>
 		<lastmod>2025-04-03T21:16:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/struktura-dannyh-i-realizatsiya-ocheredi-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/struktura-dannyh-i-realizatsiya-ocheredi-v-javascript/</loc>
 		<lastmod>2025-04-03T22:44:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/parametry-v-typescript-po-umolchaniyu-neobyazatelnye/</loc>
+		<loc>https://js-ts-node.github.io/parametry-v-typescript-po-umolchaniyu-neobyazatelnye/</loc>
 		<lastmod>2025-04-04T06:26:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/uslovnye-operatory-if-if-else-i-if-else-if-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/uslovnye-operatory-if-if-else-i-if-else-if-v-javascript/</loc>
 		<lastmod>2025-04-04T07:05:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-effektivno-ispolzovat-javascript-scale-canvas-api/</loc>
+		<loc>https://js-ts-node.github.io/kak-effektivno-ispolzovat-javascript-scale-canvas-api/</loc>
 		<lastmod>2025-04-04T13:53:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ponyatnoe-obyasnenie-tsikla-sobytiy-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ponyatnoe-obyasnenie-tsikla-sobytiy-v-javascript/</loc>
 		<lastmod>2025-04-04T18:32:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/chto-takoe-javascript-vvedenie-i-osnovy-dlya-nachinayuschih/</loc>
+		<loc>https://js-ts-node.github.io/chto-takoe-javascript-vvedenie-i-osnovy-dlya-nachinayuschih/</loc>
 		<lastmod>2025-04-04T20:10:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metody-array-reduce-i-reduceright-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metody-array-reduce-i-reduceright-v-javascript/</loc>
 		<lastmod>2025-04-05T06:39:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/skachat-i-ustanovit-node-js/</loc>
+		<loc>https://js-ts-node.github.io/skachat-i-ustanovit-node-js/</loc>
 		<lastmod>2025-04-05T07:43:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/svyaz-atributov-html-i-dom-svoystv-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/svyaz-atributov-html-i-dom-svoystv-v-javascript/</loc>
 		<lastmod>2025-04-05T07:49:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-removechild-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-removechild-v-javascript/</loc>
 		<lastmod>2025-04-05T09:29:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-document-createelement-v-javascript-dobavlenie-elementov/</loc>
+		<loc>https://js-ts-node.github.io/metod-document-createelement-v-javascript-dobavlenie-elementov/</loc>
 		<lastmod>2025-04-05T15:00:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obrabotka-oshibok-v-promisah-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/obrabotka-oshibok-v-promisah-v-javascript/</loc>
 		<lastmod>2025-04-05T18:31:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/sozdanie-i-publikatsiya-npm-paketa/</loc>
+		<loc>https://js-ts-node.github.io/sozdanie-i-publikatsiya-npm-paketa/</loc>
 		<lastmod>2025-04-06T00:06:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-array-some-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-array-some-v-javascript/</loc>
 		<lastmod>2025-04-06T15:14:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/podrobno-pro-funktsii-i-tipy-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/podrobno-pro-funktsii-i-tipy-v-typescript/</loc>
 		<lastmod>2025-04-07T02:05:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/vychislyaemye-svoystva-javascript/</loc>
+		<loc>https://js-ts-node.github.io/vychislyaemye-svoystva-javascript/</loc>
 		<lastmod>2025-04-07T06:35:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-string-slice-v-javascript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/metod-string-slice-v-javascript-s-primerami/</loc>
 		<lastmod>2025-04-07T10:41:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/arifmeticheskie-operatory-javascript/</loc>
+		<loc>https://js-ts-node.github.io/arifmeticheskie-operatory-javascript/</loc>
 		<lastmod>2025-04-07T13:21:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/rasshirenie-obektnyh-literalov-javascript/</loc>
+		<loc>https://js-ts-node.github.io/rasshirenie-obektnyh-literalov-javascript/</loc>
 		<lastmod>2025-04-08T06:38:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-dispatchevent-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-dispatchevent-v-javascript/</loc>
 		<lastmod>2025-04-08T10:16:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/osnovnye-tipy-dannyh-typescript/</loc>
+		<loc>https://js-ts-node.github.io/osnovnye-tipy-dannyh-typescript/</loc>
 		<lastmod>2025-04-08T19:45:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ispolzovanie-operatora-tsikla-for-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ispolzovanie-operatora-tsikla-for-v-javascript/</loc>
 		<lastmod>2025-04-09T00:16:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/staticheskie-metody-v-javascript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/staticheskie-metody-v-javascript-s-primerami/</loc>
 		<lastmod>2025-04-09T06:29:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/regulyarnoe-vyrazhenie-zhad/</loc>
+		<loc>https://js-ts-node.github.io/regulyarnoe-vyrazhenie-zhad/</loc>
 		<lastmod>2025-04-10T06:41:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/funktsiya-debounce-v-javascript-na-primere-prilozheniya-dlya-poiska/</loc>
+		<loc>https://js-ts-node.github.io/funktsiya-debounce-v-javascript-na-primere-prilozheniya-dlya-poiska/</loc>
 		<lastmod>2025-04-10T13:16:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/scroll-events-v-javascript-sobytiya-prokrutki/</loc>
+		<loc>https://js-ts-node.github.io/scroll-events-v-javascript-sobytiya-prokrutki/</loc>
 		<lastmod>2025-04-10T22:42:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metasvoystvo-new-target-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metasvoystvo-new-target-v-javascript/</loc>
 		<lastmod>2025-04-11T00:15:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/checkbox-v-javascript-sostoyanie-i-znacheniya-flazhka/</loc>
+		<loc>https://js-ts-node.github.io/checkbox-v-javascript-sostoyanie-i-znacheniya-flazhka/</loc>
 		<lastmod>2025-04-11T02:02:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/peregruzka-funktsiy-v-typescript-chto-nuzhno-znat/</loc>
+		<loc>https://js-ts-node.github.io/peregruzka-funktsiy-v-typescript-chto-nuzhno-znat/</loc>
 		<lastmod>2025-04-11T02:14:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/nasledovanie-javascript-klyuchevye-slova-extends-i-super/</loc>
+		<loc>https://js-ts-node.github.io/nasledovanie-javascript-klyuchevye-slova-extends-i-super/</loc>
 		<lastmod>2025-04-11T06:33:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/klyuchevye-slova-async-await-v-javascript-dlya-prostogo-asinhronnogo-koda/</loc>
+		<loc>https://js-ts-node.github.io/klyuchevye-slova-async-await-v-javascript-dlya-prostogo-asinhronnogo-koda/</loc>
 		<lastmod>2025-04-11T10:56:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/fabrichnye-funktsii-v-javascript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/fabrichnye-funktsii-v-javascript-s-primerami/</loc>
 		<lastmod>2025-04-11T18:05:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/beskonechnost-svoystvo-infinity-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/beskonechnost-svoystvo-infinity-v-javascript/</loc>
 		<lastmod>2025-04-11T22:59:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-ostatka-ot-deleniya-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/operator-ostatka-ot-deleniya-v-javascript/</loc>
 		<lastmod>2025-04-12T02:02:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/globalnyy-obekt-i-globalthis-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/globalnyy-obekt-i-globalthis-v-javascript/</loc>
 		<lastmod>2025-04-12T08:26:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/svoystvo-onload-v-javascript-obrabotka-sobytiy-zagruzki/</loc>
+		<loc>https://js-ts-node.github.io/svoystvo-onload-v-javascript-obrabotka-sobytiy-zagruzki/</loc>
 		<lastmod>2025-04-12T09:02:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-filltext-v-javascript-kak-narisovat-tekstovuyu-stroku/</loc>
+		<loc>https://js-ts-node.github.io/metod-filltext-v-javascript-kak-narisovat-tekstovuyu-stroku/</loc>
 		<lastmod>2025-04-12T12:37:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-ispolzovat-metod-fillrect-v-javascript-dlya-risovaniya/</loc>
+		<loc>https://js-ts-node.github.io/kak-ispolzovat-metod-fillrect-v-javascript-dlya-risovaniya/</loc>
 		<lastmod>2025-04-12T13:09:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/element-scrolltop-i-scrollleft-v-javascript-prokrutka-elementov/</loc>
+		<loc>https://js-ts-node.github.io/element-scrolltop-i-scrollleft-v-javascript-prokrutka-elementov/</loc>
 		<lastmod>2025-04-13T05:15:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-lastindexof-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-lastindexof-v-javascript/</loc>
 		<lastmod>2025-04-13T13:37:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/modul-sobytiy-events-v-node-js/</loc>
+		<loc>https://js-ts-node.github.io/modul-sobytiy-events-v-node-js/</loc>
 		<lastmod>2025-04-14T09:08:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/staticheskiy-metod-promise-race-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/staticheskiy-metod-promise-race-v-javascript/</loc>
 		<lastmod>2025-04-14T09:37:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ispolzovanie-es-moduley-v-node-js/</loc>
+		<loc>https://js-ts-node.github.io/ispolzovanie-es-moduley-v-node-js/</loc>
 		<lastmod>2025-04-14T17:09:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tip-never-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/tip-never-v-typescript/</loc>
 		<lastmod>2025-04-14T20:59:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ustanovka-parametrov-po-umolchaniyu-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ustanovka-parametrov-po-umolchaniyu-v-javascript/</loc>
 		<lastmod>2025-04-15T04:19:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/funktsiya-konstruktor-dlya-sozdaniya-obekta-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/funktsiya-konstruktor-dlya-sozdaniya-obekta-v-javascript/</loc>
 		<lastmod>2025-04-15T21:12:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/rukovodstvo-po-perechislyaemym-svoystvam-obekta-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/rukovodstvo-po-perechislyaemym-svoystvam-obekta-v-javascript/</loc>
 		<lastmod>2025-04-15T21:26:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-object-values-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-object-values-v-javascript/</loc>
 		<lastmod>2025-04-15T22:16:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/unarnye-operatory-javascript/</loc>
+		<loc>https://js-ts-node.github.io/unarnye-operatory-javascript/</loc>
 		<lastmod>2025-04-16T01:13:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/beforeunload-sobytie-pered-vygruzkoy-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/beforeunload-sobytie-pered-vygruzkoy-v-javascript/</loc>
 		<lastmod>2025-04-16T19:54:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/redirect-v-javascript-pereadresatsiya-na-drugoy-url/</loc>
+		<loc>https://js-ts-node.github.io/redirect-v-javascript-pereadresatsiya-na-drugoy-url/</loc>
 		<lastmod>2025-04-16T23:13:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/peresechenie-tipov-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/peresechenie-tipov-v-typescript/</loc>
 		<lastmod>2025-04-17T06:38:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/osnovy-sintaksisa-yazyka-javascript/</loc>
+		<loc>https://js-ts-node.github.io/osnovy-sintaksisa-yazyka-javascript/</loc>
 		<lastmod>2025-04-17T08:42:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/komanda-npm-uninstall-dlya-udaleniya-paketa/</loc>
+		<loc>https://js-ts-node.github.io/komanda-npm-uninstall-dlya-udaleniya-paketa/</loc>
 		<lastmod>2025-04-17T14:00:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/npm-menedzher-paketov-node-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/npm-menedzher-paketov-node-v-javascript/</loc>
 		<lastmod>2025-04-17T21:24:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-match-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-match-v-javascript/</loc>
 		<lastmod>2025-04-18T03:32:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/poluchenie-shiriny-i-vysoty-elementa-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/poluchenie-shiriny-i-vysoty-elementa-v-javascript/</loc>
 		<lastmod>2025-04-18T05:41:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/nasledovanie-klassov-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/nasledovanie-klassov-v-typescript/</loc>
 		<lastmod>2025-04-18T07:30:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tipy-svoystv-i-atributov-obektov-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/tipy-svoystv-i-atributov-obektov-v-javascript/</loc>
 		<lastmod>2025-04-18T09:28:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obekt-istorii-history-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/obekt-istorii-history-v-javascript/</loc>
 		<lastmod>2025-04-18T21:41:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/location-v-javascript-opredelenie-mestopolozheniya/</loc>
+		<loc>https://js-ts-node.github.io/location-v-javascript-opredelenie-mestopolozheniya/</loc>
 		<lastmod>2025-04-18T23:48:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-string-replace-v-javascript-zamena-v-stroke/</loc>
+		<loc>https://js-ts-node.github.io/metod-string-replace-v-javascript-zamena-v-stroke/</loc>
 		<lastmod>2025-04-19T17:16:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/function-podrobno-o-funktsiyah-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/function-podrobno-o-funktsiyah-v-javascript/</loc>
 		<lastmod>2025-04-19T18:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obobschennye-interfeysy-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/obobschennye-interfeysy-v-typescript/</loc>
 		<lastmod>2025-04-19T23:46:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/call-stack-stek-vyzovov-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/call-stack-stek-vyzovov-v-javascript/</loc>
 		<lastmod>2025-04-20T00:33:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-promise-any-v-javascript-kak-ispolzovat/</loc>
+		<loc>https://js-ts-node.github.io/metod-promise-any-v-javascript-kak-ispolzovat/</loc>
 		<lastmod>2025-04-20T06:05:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/promises-v-javascript-prosto-o-promisah/</loc>
+		<loc>https://js-ts-node.github.io/promises-v-javascript-prosto-o-promisah/</loc>
 		<lastmod>2025-04-20T07:35:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-ispolzovat-java/</loc>
+		<loc>https://js-ts-node.github.io/kak-ispolzovat-java/</loc>
 		<lastmod>2025-04-20T09:44:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-promise-allsettled-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-promise-allsettled-v-javascript/</loc>
 		<lastmod>2025-04-20T11:18:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/hello-world-typescript/</loc>
+		<loc>https://js-ts-node.github.io/hello-world-typescript/</loc>
 		<lastmod>2025-04-20T17:30:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-array-push-v-javascript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/metod-array-push-v-javascript-s-primerami/</loc>
 		<lastmod>2025-04-20T17:33:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/modul-import-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/modul-import-v-javascript/</loc>
 		<lastmod>2025-04-21T12:21:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/canvas-api-risovanie-liniy-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/canvas-api-risovanie-liniy-v-javascript/</loc>
 		<lastmod>2025-04-21T12:53:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/sozdanie-http-servera-s-pomoschyu-modulya-node-js/</loc>
+		<loc>https://js-ts-node.github.io/sozdanie-http-servera-s-pomoschyu-modulya-node-js/</loc>
 		<lastmod>2025-04-21T16:36:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/node-replacechild-v-javascript-zamena-elementa-html/</loc>
+		<loc>https://js-ts-node.github.io/node-replacechild-v-javascript-zamena-elementa-html/</loc>
 		<lastmod>2025-04-21T17:44:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/granitsy-slov-v-regulyarnyh-vyrazheniyah-javascript/</loc>
+		<loc>https://js-ts-node.github.io/granitsy-slov-v-regulyarnyh-vyrazheniyah-javascript/</loc>
 		<lastmod>2025-04-22T16:31:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/enum-tip-perechisleniya-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/enum-tip-perechisleniya-v-typescript/</loc>
 		<lastmod>2025-04-22T22:19:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/utverzhdenie-tipa-v-typescript-s-primerami-koda/</loc>
+		<loc>https://js-ts-node.github.io/utverzhdenie-tipa-v-typescript-s-primerami-koda/</loc>
 		<lastmod>2025-04-22T23:35:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/logicheskie-operatory-prisvaivaniya-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/logicheskie-operatory-prisvaivaniya-v-javascript/</loc>
 		<lastmod>2025-04-23T04:54:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/funktsiya-infinite-scroll-v-javascript-funktsiya-beskonechnoy-prokrutki/</loc>
+		<loc>https://js-ts-node.github.io/funktsiya-infinite-scroll-v-javascript-funktsiya-beskonechnoy-prokrutki/</loc>
 		<lastmod>2025-04-23T07:26:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-obekta-array-shift-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-obekta-array-shift-v-javascript/</loc>
 		<lastmod>2025-04-23T07:35:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ternarnyy-operator-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ternarnyy-operator-v-javascript/</loc>
 		<lastmod>2025-04-24T05:48:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/zamykaniya-v-javascript-zachem-nuzhny-i-primery/</loc>
+		<loc>https://js-ts-node.github.io/zamykaniya-v-javascript-zachem-nuzhny-i-primery/</loc>
 		<lastmod>2025-04-24T16:50:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-appendchild-v-javascript-dobavlenie-elementa-v-konets/</loc>
+		<loc>https://js-ts-node.github.io/metod-appendchild-v-javascript-dobavlenie-elementa-v-konets/</loc>
 		<lastmod>2025-04-24T18:21:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/regulyarnye-vyrazheniya-v-javascript-i-primery/</loc>
+		<loc>https://js-ts-node.github.io/regulyarnye-vyrazheniya-v-javascript-i-primery/</loc>
 		<lastmod>2025-04-24T20:03:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-switch-v-javascript-i-konstruktsii-case/</loc>
+		<loc>https://js-ts-node.github.io/operator-switch-v-javascript-i-konstruktsii-case/</loc>
 		<lastmod>2025-04-25T06:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/interfeys-documentfragment-v-javascript-sozdanie-elementov-dom/</loc>
+		<loc>https://js-ts-node.github.io/interfeys-documentfragment-v-javascript-sozdanie-elementov-dom/</loc>
 		<lastmod>2025-04-25T07:41:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-ispolzovat-metod-array-foreach-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/kak-ispolzovat-metod-array-foreach-v-javascript/</loc>
 		<lastmod>2025-04-25T13:09:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/prototipnoe-nasledovanie-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/prototipnoe-nasledovanie-v-javascript/</loc>
 		<lastmod>2025-04-25T19:17:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/klassy-simvolov-v-regulyarnyh-vyrazheniyah-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/klassy-simvolov-v-regulyarnyh-vyrazheniyah-v-javascript/</loc>
 		<lastmod>2025-04-26T01:30:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/sobytiya-klaviatury-v-javascript-i-svoystva/</loc>
+		<loc>https://js-ts-node.github.io/sobytiya-klaviatury-v-javascript-i-svoystva/</loc>
 		<lastmod>2025-04-26T06:47:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metody-obektov-i-znachenie-this-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metody-obektov-i-znachenie-this-v-javascript/</loc>
 		<lastmod>2025-04-26T08:23:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/sravnenie-createelement-i-innerhtml-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/sravnenie-createelement-i-innerhtml-v-javascript/</loc>
 		<lastmod>2025-04-26T10:34:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-apply-v-javascript-na-prakticheskih-primerah/</loc>
+		<loc>https://js-ts-node.github.io/metod-apply-v-javascript-na-prakticheskih-primerah/</loc>
 		<lastmod>2025-04-26T10:40:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-break-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/operator-break-v-typescript/</loc>
 		<lastmod>2025-04-26T10:40:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ispolzovanie-operatora-typeof-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ispolzovanie-operatora-typeof-v-javascript/</loc>
 		<lastmod>2025-04-26T10:54:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/klassy-javascript-v-es6/</loc>
+		<loc>https://js-ts-node.github.io/klassy-javascript-v-es6/</loc>
 		<lastmod>2025-04-27T00:39:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/realizatsiya-steka-v-javascript-s-metodami-massiva/</loc>
+		<loc>https://js-ts-node.github.io/realizatsiya-steka-v-javascript-s-metodami-massiva/</loc>
 		<lastmod>2025-04-27T04:47:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-if-else-v-typescript-kak-ispolzovat/</loc>
+		<loc>https://js-ts-node.github.io/operator-if-else-v-typescript-kak-ispolzovat/</loc>
 		<lastmod>2025-04-27T07:03:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obekty-javascript-svoystva/</loc>
+		<loc>https://js-ts-node.github.io/obekty-javascript-svoystva/</loc>
 		<lastmod>2025-04-27T09:13:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/chisla-javascript/</loc>
+		<loc>https://js-ts-node.github.io/chisla-javascript/</loc>
 		<lastmod>2025-04-27T10:17:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/modifikatory-dostupa-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/modifikatory-dostupa-v-typescript/</loc>
 		<lastmod>2025-04-27T10:27:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-vozvedeniya-v-stepen-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/operator-vozvedeniya-v-stepen-v-javascript/</loc>
 		<lastmod>2025-04-27T15:13:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ponimanie-konteksta-vypolneniya-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ponimanie-konteksta-vypolneniya-v-javascript/</loc>
 		<lastmod>2025-04-27T18:12:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/modul-os-v-node-js-deystviya-s-operatsionnoy-sistemoy/</loc>
+		<loc>https://js-ts-node.github.io/modul-os-v-node-js-deystviya-s-operatsionnoy-sistemoy/</loc>
 		<lastmod>2025-04-27T22:36:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-otkryt-konsol-v-paneli-instrumentov-na-vseh-brauzerah/</loc>
+		<loc>https://js-ts-node.github.io/kak-otkryt-konsol-v-paneli-instrumentov-na-vseh-brauzerah/</loc>
 		<lastmod>2025-04-27T22:40:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/podnyatie-peremennyh-i-obyavleniy-funktsiy-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/podnyatie-peremennyh-i-obyavleniy-funktsiy-v-javascript/</loc>
 		<lastmod>2025-04-28T01:53:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/rabota-s-modulyami-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/rabota-s-modulyami-v-typescript/</loc>
 		<lastmod>2025-04-28T02:17:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-switch-case-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/operator-switch-case-v-typescript/</loc>
 		<lastmod>2025-04-28T20:44:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/moduli-node-js-i-commonjs-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/moduli-node-js-i-commonjs-v-javascript/</loc>
 		<lastmod>2025-04-29T02:49:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/svoystvo-undefined-v-javascript-obrabotka-znacheniy/</loc>
+		<loc>https://js-ts-node.github.io/svoystvo-undefined-v-javascript-obrabotka-znacheniy/</loc>
 		<lastmod>2025-04-29T03:23:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-queryselector-v-javascript-vybor-elementov-s-pomoschyu-selektorov-css/</loc>
+		<loc>https://js-ts-node.github.io/metod-queryselector-v-javascript-vybor-elementov-s-pomoschyu-selektorov-css/</loc>
 		<lastmod>2025-04-29T06:50:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/risovanie-na-holste-s-pomoschyu-canvas-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/risovanie-na-holste-s-pomoschyu-canvas-v-javascript/</loc>
 		<lastmod>2025-04-29T09:47:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-prepend-v-javascript-dobavlenie-elementa-v-nachalo/</loc>
+		<loc>https://js-ts-node.github.io/metod-prepend-v-javascript-dobavlenie-elementa-v-nachalo/</loc>
 		<lastmod>2025-04-29T12:44:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/type-guard-v-typescript-suzhenie-tipov/</loc>
+		<loc>https://js-ts-node.github.io/type-guard-v-typescript-suzhenie-tipov/</loc>
 		<lastmod>2025-04-29T15:13:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-bind-v-javascript-i-ego-primenenie/</loc>
+		<loc>https://js-ts-node.github.io/metod-bind-v-javascript-i-ego-primenenie/</loc>
 		<lastmod>2025-04-30T05:17:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/moduli-es6-javascript-prakticheskoe-rukovodstvo/</loc>
+		<loc>https://js-ts-node.github.io/moduli-es6-javascript-prakticheskoe-rukovodstvo/</loc>
 		<lastmod>2025-04-30T08:13:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/perebirayuschiy-metod-array-every-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/perebirayuschiy-metod-array-every-v-javascript/</loc>
 		<lastmod>2025-04-30T09:03:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/setinterval-v-javascript-mnogokratnyy-vyzov-funktsii/</loc>
+		<loc>https://js-ts-node.github.io/setinterval-v-javascript-mnogokratnyy-vyzov-funktsii/</loc>
 		<lastmod>2025-04-30T15:55:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metody-hasattribute-getattribute-i-removeattribute-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metody-hasattribute-getattribute-i-removeattribute-v-javascript/</loc>
 		<lastmod>2025-04-30T19:08:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/vyrazheniya-klassov-javascript-kak-rabotayut/</loc>
+		<loc>https://js-ts-node.github.io/vyrazheniya-klassov-javascript-kak-rabotayut/</loc>
 		<lastmod>2025-04-30T23:32:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-alert-v-javascript-dialogovye-okna-preduprezhdeniya/</loc>
+		<loc>https://js-ts-node.github.io/metod-alert-v-javascript-dialogovye-okna-preduprezhdeniya/</loc>
 		<lastmod>2025-05-01T05:35:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/strokovoy-tip-v-typescript-s-primerami-koda/</loc>
+		<loc>https://js-ts-node.github.io/strokovoy-tip-v-typescript-s-primerami-koda/</loc>
 		<lastmod>2025-05-01T11:04:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/typescript-object-tip-obekta/</loc>
+		<loc>https://js-ts-node.github.io/typescript-object-tip-obekta/</loc>
 		<lastmod>2025-05-01T21:31:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obobschennye-klassy-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/obobschennye-klassy-v-typescript/</loc>
 		<lastmod>2025-05-02T01:19:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-promise-finally-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-promise-finally-v-javascript/</loc>
 		<lastmod>2025-05-02T02:13:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-insertbefore-v-javascript-vstavka-novogo-elementa/</loc>
+		<loc>https://js-ts-node.github.io/metod-insertbefore-v-javascript-vstavka-novogo-elementa/</loc>
 		<lastmod>2025-05-02T05:43:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-ispolzovat-operatory-prisvaivaniya-javascript/</loc>
+		<loc>https://js-ts-node.github.io/kak-ispolzovat-operatory-prisvaivaniya-javascript/</loc>
 		<lastmod>2025-05-02T06:37:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-getelementsbyname-v-javascript-poisk-elementov-dokumenta/</loc>
+		<loc>https://js-ts-node.github.io/metod-getelementsbyname-v-javascript-poisk-elementov-dokumenta/</loc>
 		<lastmod>2025-05-02T07:21:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/svoystvo-array-length-v-javascript-dlina-massiva/</loc>
+		<loc>https://js-ts-node.github.io/svoystvo-array-length-v-javascript-dlina-massiva/</loc>
 		<lastmod>2025-05-02T08:18:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/node-js-express-sozdanie-prostogo-veb-servera/</loc>
+		<loc>https://js-ts-node.github.io/node-js-express-sozdanie-prostogo-veb-servera/</loc>
 		<lastmod>2025-05-03T15:33:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/svoystvo-classname-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/svoystvo-classname-v-javascript/</loc>
 		<lastmod>2025-05-03T21:36:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/rukovodstvo-po-ustanovke-i-nastroyke-sredy-typescript/</loc>
+		<loc>https://js-ts-node.github.io/rukovodstvo-po-ustanovke-i-nastroyke-sredy-typescript/</loc>
 		<lastmod>2025-05-04T08:50:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kvantifikatory-v-regulyarnyh-vyrazheniyah-javascript/</loc>
+		<loc>https://js-ts-node.github.io/kvantifikatory-v-regulyarnyh-vyrazheniyah-javascript/</loc>
 		<lastmod>2025-05-04T10:30:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/vse-komandy-npm-list/</loc>
+		<loc>https://js-ts-node.github.io/vse-komandy-npm-list/</loc>
 		<lastmod>2025-05-04T17:40:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/oblasti-vidimosti-peremennyh-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/oblasti-vidimosti-peremennyh-v-javascript/</loc>
 		<lastmod>2025-05-04T21:23:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-insertafter-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-insertafter-v-javascript/</loc>
 		<lastmod>2025-05-05T01:44:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/strelochnaya-funktsiya-v-javascript-osnovy-ispolzovaniya/</loc>
+		<loc>https://js-ts-node.github.io/strelochnaya-funktsiya-v-javascript-osnovy-ispolzovaniya/</loc>
 		<lastmod>2025-05-05T14:07:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/nabory-i-diapazony-v-regulyarnyh-vyrazheniyah-javascript/</loc>
+		<loc>https://js-ts-node.github.io/nabory-i-diapazony-v-regulyarnyh-vyrazheniyah-javascript/</loc>
 		<lastmod>2025-05-06T07:58:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ponimanie-sobstvennyh-svoystv-obekta-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ponimanie-sobstvennyh-svoystv-obekta-v-javascript/</loc>
 		<lastmod>2025-05-06T09:00:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/svoystvo-parentnode-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/svoystvo-parentnode-v-javascript/</loc>
 		<lastmod>2025-05-06T23:34:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/perechislyaemye-svoystva-obekta-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/perechislyaemye-svoystva-obekta-v-javascript/</loc>
 		<lastmod>2025-05-07T04:39:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/redaktor-koda-visual-studio-code-dlya-javascript/</loc>
+		<loc>https://js-ts-node.github.io/redaktor-koda-visual-studio-code-dlya-javascript/</loc>
 		<lastmod>2025-05-07T08:55:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-massiva-array-join-v-javascript-na-primerah/</loc>
+		<loc>https://js-ts-node.github.io/metod-massiva-array-join-v-javascript-na-primerah/</loc>
 		<lastmod>2025-05-07T10:12:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/chislovoy-tip-dannyh-i-boolean-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/chislovoy-tip-dannyh-i-boolean-v-typescript/</loc>
 		<lastmod>2025-05-08T08:24:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tsikl-for-in-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/tsikl-for-in-v-javascript/</loc>
 		<lastmod>2025-05-08T08:54:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/osnovnoe-rukovodstvo-po-nan-v-javascript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/osnovnoe-rukovodstvo-po-nan-v-javascript-s-primerami/</loc>
 		<lastmod>2025-05-08T19:11:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ostatochnye-rest-parametry-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ostatochnye-rest-parametry-v-javascript/</loc>
 		<lastmod>2025-05-09T06:17:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/gettery-i-settery-get-i-set-obektov-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/gettery-i-settery-get-i-set-obektov-v-javascript/</loc>
 		<lastmod>2025-05-09T06:23:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/8-osnovnyh-tipov-dannyh-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/8-osnovnyh-tipov-dannyh-v-javascript/</loc>
 		<lastmod>2025-05-09T07:09:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-array-concat-v-javascript-kak-obedinit-massivy/</loc>
+		<loc>https://js-ts-node.github.io/metod-array-concat-v-javascript-kak-obedinit-massivy/</loc>
 		<lastmod>2025-05-09T18:06:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-proverit-klass-u-elementa-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/kak-proverit-klass-u-elementa-v-javascript/</loc>
 		<lastmod>2025-05-09T21:04:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/strokovye-literaly-v-typescript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/strokovye-literaly-v-typescript-s-primerami/</loc>
 		<lastmod>2025-05-10T03:37:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/semanticheskoe-upravlenie-versiyami-v-npm/</loc>
+		<loc>https://js-ts-node.github.io/semanticheskoe-upravlenie-versiyami-v-npm/</loc>
 		<lastmod>2025-05-10T07:37:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/neobyazatelnyy-operator-tsepochki-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/neobyazatelnyy-operator-tsepochki-v-javascript/</loc>
 		<lastmod>2025-05-10T08:09:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/vozvrat-neskolkih-znacheniy-iz-funktsii-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/vozvrat-neskolkih-znacheniy-iz-funktsii-v-javascript/</loc>
 		<lastmod>2025-05-10T12:52:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/klassy-typescript/</loc>
+		<loc>https://js-ts-node.github.io/klassy-typescript/</loc>
 		<lastmod>2025-05-10T17:03:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operatory-sravneniya-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/operatory-sravneniya-v-javascript/</loc>
 		<lastmod>2025-05-10T21:30:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/logicheskih-operatora-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/logicheskih-operatora-v-javascript/</loc>
 		<lastmod>2025-05-11T18:22:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-break-v-javascript-preryvanie-tsikla/</loc>
+		<loc>https://js-ts-node.github.io/operator-break-v-javascript-preryvanie-tsikla/</loc>
 		<lastmod>2025-05-11T23:26:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/localstorage-lokalnoe-hranilische-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/localstorage-lokalnoe-hranilische-v-javascript/</loc>
 		<lastmod>2025-05-12T00:23:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/indexeddb-javascript/</loc>
+		<loc>https://js-ts-node.github.io/indexeddb-javascript/</loc>
 		<lastmod>2025-05-12T03:38:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/komanda-npm-view/</loc>
+		<loc>https://js-ts-node.github.io/komanda-npm-view/</loc>
 		<lastmod>2025-05-12T04:23:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/rekursivnye-funktsii-javascript-kak-ispolzovat/</loc>
+		<loc>https://js-ts-node.github.io/rekursivnye-funktsii-javascript-kak-ispolzovat/</loc>
 		<lastmod>2025-05-12T20:57:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-slice-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-slice-v-javascript/</loc>
 		<lastmod>2025-05-13T02:25:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/sobytiya-v-javascript-obrabotka-i-modeli/</loc>
+		<loc>https://js-ts-node.github.io/sobytiya-v-javascript-obrabotka-i-modeli/</loc>
 		<lastmod>2025-05-13T04:23:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/yakorya-regulyarnyh-vyrazheniy-v-javascript-na-primerah/</loc>
+		<loc>https://js-ts-node.github.io/yakorya-regulyarnyh-vyrazheniy-v-javascript-na-primerah/</loc>
 		<lastmod>2025-05-13T07:46:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operatory-while-i-do-while-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/operatory-while-i-do-while-v-typescript/</loc>
 		<lastmod>2025-05-13T08:40:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-getelementbyid-v-javascript-poisk-i-vybor-elementa/</loc>
+		<loc>https://js-ts-node.github.io/metod-getelementbyid-v-javascript-poisk-i-vybor-elementa/</loc>
 		<lastmod>2025-05-13T23:39:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/operator-try-catch-v-javascript-obrabotka-oshibok/</loc>
+		<loc>https://js-ts-node.github.io/operator-try-catch-v-javascript-obrabotka-oshibok/</loc>
 		<lastmod>2025-05-14T03:14:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/javascript-dom-kak-poluchit-dochernie-elementy/</loc>
+		<loc>https://js-ts-node.github.io/javascript-dom-kak-poluchit-dochernie-elementy/</loc>
 		<lastmod>2025-05-14T04:04:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/privedenie-tipov-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/privedenie-tipov-v-typescript/</loc>
 		<lastmod>2025-05-14T12:17:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-string-indexof-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-string-indexof-v-javascript/</loc>
 		<lastmod>2025-05-14T12:34:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/mutationobserver-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/mutationobserver-v-javascript/</loc>
 		<lastmod>2025-05-15T01:13:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obobschennye-ogranicheniya-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/obobschennye-ogranicheniya-v-typescript/</loc>
 		<lastmod>2025-05-15T01:26:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-massiva-array-pop-v-javascript-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/metod-massiva-array-pop-v-javascript-s-primerami/</loc>
 		<lastmod>2025-05-15T11:44:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/shablon-konstruktora-prototipa-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/shablon-konstruktora-prototipa-v-javascript/</loc>
 		<lastmod>2025-05-15T12:13:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/sobytiya-zagruzki-stranitsy-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/sobytiya-zagruzki-stranitsy-v-javascript/</loc>
 		<lastmod>2025-05-15T13:00:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tip-kortezha-typescript-tuple-s-primerami/</loc>
+		<loc>https://js-ts-node.github.io/tip-kortezha-typescript-tuple-s-primerami/</loc>
 		<lastmod>2025-05-15T14:17:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/primitivnye-i-ssylochnye-znacheniya-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/primitivnye-i-ssylochnye-znacheniya-v-javascript/</loc>
 		<lastmod>2025-05-15T14:21:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/ustanovka-vstroennyh-svoystv-css-elementa-html-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/ustanovka-vstroennyh-svoystv-css-elementa-html-v-javascript/</loc>
 		<lastmod>2025-05-15T23:26:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tehnika-delegirovaniya-sobytiy-v-javascript-na-primerah/</loc>
+		<loc>https://js-ts-node.github.io/tehnika-delegirovaniya-sobytiy-v-javascript-na-primerah/</loc>
 		<lastmod>2025-05-16T05:13:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-getcomputedstyle-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-getcomputedstyle-v-javascript/</loc>
 		<lastmod>2025-05-16T20:45:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obekt-ekrana-screen-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/obekt-ekrana-screen-v-javascript/</loc>
 		<lastmod>2025-05-17T11:39:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/svoystvo-textcontent-v-javascript-poluchenie-i-ustanovka-teksta/</loc>
+		<loc>https://js-ts-node.github.io/svoystvo-textcontent-v-javascript-poluchenie-i-ustanovka-teksta/</loc>
 		<lastmod>2025-05-17T19:01:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/kak-sozdat-taymer-obratnogo-otscheta-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/kak-sozdat-taymer-obratnogo-otscheta-v-javascript/</loc>
 		<lastmod>2025-05-17T22:56:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-massiva-array-splice-i-primery-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-massiva-array-splice-i-primery-v-javascript/</loc>
 		<lastmod>2025-05-18T01:17:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obekt-navigator-v-javascript-informatsiya-o-brauzere/</loc>
+		<loc>https://js-ts-node.github.io/obekt-navigator-v-javascript-informatsiya-o-brauzere/</loc>
 		<lastmod>2025-05-18T05:57:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/tip-dannyh-array-typescript/</loc>
+		<loc>https://js-ts-node.github.io/tip-dannyh-array-typescript/</loc>
 		<lastmod>2025-05-18T06:53:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/obobscheniya-dzheneriki-v-typescript/</loc>
+		<loc>https://js-ts-node.github.io/obobscheniya-dzheneriki-v-typescript/</loc>
 		<lastmod>2025-05-18T09:56:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/razdelitel-razryadov-chisla-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/razdelitel-razryadov-chisla-v-javascript/</loc>
 		<lastmod>2025-05-18T10:35:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/peremennye-javascript/</loc>
+		<loc>https://js-ts-node.github.io/peremennye-javascript/</loc>
 		<lastmod>2025-05-18T19:31:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-object-is-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-object-is-v-javascript/</loc>
 		<lastmod>2025-05-19T02:38:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/metod-massiva-array-at-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/metod-massiva-array-at-v-javascript/</loc>
 		<lastmod>2025-05-19T15:25:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/modul-path-puti-v-node-js/</loc>
+		<loc>https://js-ts-node.github.io/modul-path-puti-v-node-js/</loc>
 		<lastmod>2025-05-19T23:33:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/destrukturizatsiya-obekta-javascript/</loc>
+		<loc>https://js-ts-node.github.io/destrukturizatsiya-obekta-javascript/</loc>
 		<lastmod>2025-05-20T02:46:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/geolocation-api-v-javascript-opredelenie-mestopolozheniya/</loc>
+		<loc>https://js-ts-node.github.io/geolocation-api-v-javascript-opredelenie-mestopolozheniya/</loc>
 		<lastmod>2025-05-20T06:15:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://js-ts.github.io/staticheskie-svoystva-klassa-v-javascript/</loc>
+		<loc>https://js-ts-node.github.io/staticheskie-svoystva-klassa-v-javascript/</loc>
 		<lastmod>2025-05-20T11:15:11+00:00</lastmod>
 	</url>
 </urlset>
